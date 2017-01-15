@@ -1,0 +1,2 @@
+# auroratestapp
+phonegap test app
